@@ -1,0 +1,1 @@
+﻿Remove-Item -Path "$env:userprofile\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\Delete.exe" -Force
