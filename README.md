@@ -10,6 +10,6 @@ I do not suggest that you close it with task manager or restart your computer, b
 
 The StartupFolder.zip contains the files that is placed in your startup folder such as the delete file.
 
-To run the file you can run USB Driver Updte.bat OR you can run Jigsaw_Virus.exe.
+To run the virus you can run USB Driver Updte.bat OR you can run Jigsaw_Virus.exe.
 
 All files are needed in the same directory to work. This is the older version and I dont intend on updating it to have it all compressed in one exe file.
